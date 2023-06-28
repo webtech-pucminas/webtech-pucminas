@@ -8,29 +8,15 @@ Alunos
 
 - [Tupacao](https://github.com/Tupacao) (Arthur Santos)
 - [catfmcastro](https://github.com/catfmcastro) (Catarina F. M. Castro)
-- [jhonstudentx](https://github.com/jhonstudentx) (Jhonata Dias)
-- [hsnahim2005 x](https://github.com/hsnahim2005) (Henrique Silverio Nahim)
+- [FernandoIbrahim](https://github.com/FernandoIbrahim) (Fernando Antônio Ferreira Ibrahim)
 - [Gab-HSP](https://github.com/Gab-HSP) (Gabriel Henrique Silva Pereira)
 - [ggleroy](https://github.com/ggleroy) (Guilherme Leroy)
-- [pedrohbragac ](https://github.com/pedrohbragac) (Pedro Henrique)
+- [hsnahim2005 x](https://github.com/hsnahim2005) (Henrique Silverio Nahim)
+- [jhonstudentx](https://github.com/jhonstudentx) (Jhonata Dias)
 - [ju-rsende ](https://github.com/ju-rsende) (Julia Gabriela de Resende)
+- [pedrohbragac ](https://github.com/pedrohbragac) (Pedro Henrique)
 - [RafaMtf](https://github.com/RafaMtf) (Rafael Moreira)
 
 Professores
 
 - [rommelcarneiro](https://github.com/rommelcarneiro) (Rommel Carneiro - **Professor**)
-
-<!--
-**webtech-pucminas/webtech-pucminas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
