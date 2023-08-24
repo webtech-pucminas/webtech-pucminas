@@ -14,6 +14,7 @@ Alunos
 - [hsnahim2005 x](https://github.com/hsnahim2005) (Henrique Silverio Nahim)
 - [jhonstudentx](https://github.com/jhonstudentx) (Jhonata Dias)
 - [ju-rsende ](https://github.com/ju-rsende) (Julia Gabriela de Resende)
+- [lucaazalim](https://github.com/lucaazalim) (Luca Azalim)
 - [pedrohbragac ](https://github.com/pedrohbragac) (Pedro Henrique)
 - [RafaMtf](https://github.com/RafaMtf) (Rafael Moreira)
 
