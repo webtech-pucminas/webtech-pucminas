@@ -6,14 +6,14 @@ Várias contribuições têm origem também nos trabalhos de alunos e professore
 
 Alunos
 
-- [Tupacao](https://github.com/Tupacao) (Arthur Santos)
 - [catfmcastro](https://github.com/catfmcastro) (Catarina F. M. Castro)
-- [FernandoIbrahim](https://github.com/FernandoIbrahim) (Fernando Antônio Ferreira Ibrahim)
 - [Gab-HSP](https://github.com/Gab-HSP) (Gabriel Henrique Silva Pereira)
 - [ggleroy](https://github.com/ggleroy) (Guilherme Leroy)
 - [hsnahim2005 x](https://github.com/hsnahim2005) (Henrique Silverio Nahim)
 - [jhonstudentx](https://github.com/jhonstudentx) (Jhonata Dias)
-- [ju-rsende ](https://github.com/ju-rsende) (Julia Gabriela de Resende)
+- [ju-rsende](https://github.com/ju-rsende) (Julia Gabriela de Resende)
+- []() (Julia Carvalho Carneiro)
+- [kspencerl](https://github.com/kspencerl) (Kimberly Liz Spencer Lourenço)
 - [lucaazalim](https://github.com/lucaazalim) (Luca Azalim)
 - [pedrohbragac ](https://github.com/pedrohbragac) (Pedro Henrique)
 - [RafaMtf](https://github.com/RafaMtf) (Rafael Moreira)
@@ -21,3 +21,4 @@ Alunos
 Professores
 
 - [rommelcarneiro](https://github.com/rommelcarneiro) (Rommel Carneiro - **Professor**)
+- (Lucas Porto **Professor**)
