@@ -13,9 +13,10 @@ Alunos
 - [jhonstudentx](https://github.com/jhonstudentx) (Jhonata Dias)
 - [ju-rsende](https://github.com/ju-rsende) (Julia Gabriela de Resende)
 - [jubju](https://github.com/jubju) (Julia Carvalho Carneiro)
+- [jullysilva](https://github.com/jullysilva) Jully Ketely
 - [kspencerl](https://github.com/kspencerl) (Kimberly Liz Spencer Lourenço)
 - [lucaazalim](https://github.com/lucaazalim) (Luca Azalim)
-- [pedrohbragac](https://github.com/pedrohbragac) (Pedro Henrique)
+- [bragap](https://github.com/bragap) (Pedro Henrique)
 - [rafamtf](https://github.com/RafaMtf) (Rafael Moreira)
 - [nisuk3](https://github.com/nisuk3) (Talisson Augusto)
 
