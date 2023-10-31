@@ -7,16 +7,17 @@ Várias contribuições têm origem também nos trabalhos de alunos e professore
 Alunos
 
 - [catfmcastro](https://github.com/catfmcastro) (Catarina F. M. Castro)
-- [Gab-HSP](https://github.com/Gab-HSP) (Gabriel Henrique Silva Pereira)
+- [gab-hsp](https://github.com/Gab-HSP) (Gabriel Henrique Silva Pereira)
 - [ggleroy](https://github.com/ggleroy) (Guilherme Leroy)
 - [hsnahim2005 x](https://github.com/hsnahim2005) (Henrique Silverio Nahim)
 - [jhonstudentx](https://github.com/jhonstudentx) (Jhonata Dias)
 - [ju-rsende](https://github.com/ju-rsende) (Julia Gabriela de Resende)
-- []() (Julia Carvalho Carneiro)
+- [jubju](https://github.com/jubju) (Julia Carvalho Carneiro)
 - [kspencerl](https://github.com/kspencerl) (Kimberly Liz Spencer Lourenço)
 - [lucaazalim](https://github.com/lucaazalim) (Luca Azalim)
-- [pedrohbragac ](https://github.com/pedrohbragac) (Pedro Henrique)
-- [RafaMtf](https://github.com/RafaMtf) (Rafael Moreira)
+- [pedrohbragac](https://github.com/pedrohbragac) (Pedro Henrique)
+- [rafamtf](https://github.com/RafaMtf) (Rafael Moreira)
+- [nisuk3](https://github.com/nisuk3) (Talisson Augusto)
 
 Professores
 
