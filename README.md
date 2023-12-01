@@ -22,21 +22,21 @@ Várias contribuições têm origem também nos trabalhos de alunos e professore
 
 Alunos
 
-- [catfmcastro](https://github.com/catfmcastro) (Catarina F. M. Castro)
-- [gab-hsp](https://github.com/Gab-HSP) (Gabriel Henrique Silva Pereira)
-- [ggleroy](https://github.com/ggleroy) (Guilherme Leroy)
-- [hsnahim2005 x](https://github.com/hsnahim2005) (Henrique Silverio Nahim)
-- [jhonstudentx](https://github.com/jhonstudentx) (Jhonata Dias)
-- [ju-rsende](https://github.com/ju-rsende) (Julia Gabriela de Resende)
-- [jubju](https://github.com/jubju) (Julia Carvalho Carneiro)
-- [jullysilva](https://github.com/jullysilva) Jully Ketely
-- [kspencerl](https://github.com/kspencerl) (Kimberly Liz Spencer Lourenço)
-- [lucaazalim](https://github.com/lucaazalim) (Luca Azalim)
-- [bragap](https://github.com/bragap) (Pedro Henrique)
-- [rafamtf](https://github.com/RafaMtf) (Rafael Moreira)
-- [nisuk3](https://github.com/nisuk3) (Talisson Augusto)
+- Catarina F. M. Castro - [catfmcastro](https://github.com/catfmcastro)
+- Gabriel Henrique Silva Pereira - [gab-hsp](https://github.com/Gab-HSP)
+- Guilherme Leroy - [ggleroy](https://github.com/ggleroy)
+- Henrique Silverio Nahim - [hsnahim2005 x](https://github.com/hsnahim2005)
+- Jhonata Silveira Dias - [jhonstudentx](https://github.com/jhonstudentx)
+- Julia Gabriela de Resende - [ju-rsende](https://github.com/ju-rsende)
+- Julia Carvalho Carneiro - [jubju](https://github.com/jubju)
+- Jully Ketely - [jullysilva](https://github.com/jullysilva)
+- Kimberly Liz Spencer Lourenço - [kspencerl](https://github.com/kspencerl)
+- Luca Azalim - [lucaazalim](https://github.com/lucaazalim)
+- Pedro Henrique Braga - [bragap](https://github.com/bragap)
+- Rafael Moreira - [rafamtf](https://github.com/RafaMtf)
+- Talisson Augusto - [nisuk3](https://github.com/nisuk3)
 
 Professores
 
-- [portolucas](https://github.com/portolucas) (Lucas Porto **Professor**)
-- [rommelcarneiro](https://github.com/rommelcarneiro) (Rommel Carneiro - **Professor e Idealizador do projeto**)
+- Lucas Porto - [portolucas](https://github.com/portolucas)
+- Rommel Carneiro (**Idealizador do projeto**) - [rommelcarneiro](https://github.com/rommelcarneiro)
