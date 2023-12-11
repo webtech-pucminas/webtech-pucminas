@@ -2,14 +2,20 @@ Olá pessoal, esté é um grupo de alunos dos cursos de Tecnologia da Informaç�
 
 Várias contribuições têm origem também nos trabalhos de alunos e professores dos cursos de [pós-graduação da PUC Minas em Tecnologias Digitais](https://icei.pucminas.br/latosensu).
 
+## Participe do WebTech   ⭐️ ⭐ ⭐ ⭐ ⭐
+
+As inscrições para o WebTech 2024 estão abertas. Buscamos gente com postura positiva e interesse em aprender e transformar nosso ecossistema. Venha com a gente. 
+
+[Inscreva-se para o processo de seleção até o dia 17/12](https://bit.ly/inscreva-webtech).
+
 ## Laboratórios WebTech
 
 - [Git e Gitflow](https://github.com/WebTech-PUC-Minas/git-gitflow)
   Orientações sobre o uso do git e o GitFlow, ferramentas fundamentais para o desenvolvimento colaborativo, ajudando a manter o código organizado e permitindo o trabalho em equipe de maneira eficaz.
 - [API RESTful com Node.js + BD + Segurança + Docker](https://github.com/WebTech-PUC-Minas/lab-node-basic-api)
-    Roteiro para montagem de uma API RESTful na plataforma Node.JS, com operações de CRUD (Create, Read, Update e Delete) e segurança integrada baseada no uso de tokens JWT (JSON Web Token) como formato de identificação, além do uso da biblioteca Knex como QueryBuilder integrando banco de Dados PostgreSQL.
+  Roteiro para montagem de uma API RESTful na plataforma Node.JS, com operações de CRUD (Create, Read, Update e Delete) e segurança integrada baseada no uso de tokens JWT (JSON Web Token) como formato de identificação, além do uso da biblioteca Knex como QueryBuilder integrando banco de Dados PostgreSQL.
 - [API RESTful com SpringBoot + BD + Segurança + Docker](https://github.com/WebTech-PUC-Minas/lab-springboot-basic-api)
-    Roteiro para o desenvolvimento de APIs RESTful em projetos Spring Boot utilizando Docker para facilitar a criação de contêineres e isolamento de serviços, além de gerenciamento de banco de dados PostgreSQL com o uso do Flyway para migrações de banco de dados.
+  Roteiro para o desenvolvimento de APIs RESTful em projetos Spring Boot utilizando Docker para facilitar a criação de contêineres e isolamento de serviços, além de gerenciamento de banco de dados PostgreSQL com o uso do Flyway para migrações de banco de dados.
 - [Plataforma ELK --&gt; Elastic Seach + Logstash + Kibana](https://github.com/WebTech-PUC-Minas/lab-elk-db)
   Ambiente de busca com [*Elastic Search*](https://www.elastic.co/) indexando de forma automatizada conteúdo disponível em banco de dados Postgres, além de orientações sobre as diversas formas de consulta à API do *Elastic Search*.
 - [Automação Web e Webscrape com Puppeteer]()Puppeteer é um mecanismo que simula o navegador Web de forma programática para automatizar açoes na Web, contemplando testes de software e raspagem de dados (WebScrape).
