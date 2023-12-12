@@ -4,7 +4,7 @@ Várias contribuições têm origem também nos trabalhos de alunos e professore
 
 ## Participe do WebTech   ⭐️ ⭐ ⭐ ⭐ ⭐
 
-As inscrições para o WebTech 2024 estão abertas. Buscamos gente com postura positiva e interesse em aprender e transformar nosso ecossistema. Venha com a gente. `<img align="right" width="194" height="189" src="./images/wt-badge.png">`
+As inscrições para o WebTech 2024 estão abertas. Buscamos gente com postura positiva e interesse em aprender e transformar nosso ecossistema. Venha com a gente. <img align="right" width="194" height="189" src="./images/wt-badge.png">
 
 [Inscreva-se para o processo de seleção até o dia 17/12](https://bit.ly/inscreva-webtech).
 
