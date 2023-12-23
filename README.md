@@ -5,7 +5,7 @@ Várias contribuições têm origem também nos trabalhos de alunos e professore
 
 ## Participe do WebTech   ⭐️ ⭐ ⭐ ⭐ ⭐
 
-Conheça nossos ambientes e as nossas ações, [clique aqui](https://linktr.ee/webtech.pucminas). Entre em contato conosco e venha  conhecer nosso Lab para interagir com os membros e mentores. Há muita coisa para fazer juntos. Venha com a gente. `<img align="right" width="194" height="189" src="./images/wt-badge.png">`
+Conheça nossos ambientes e as nossas ações, [clique aqui](https://linktr.ee/webtech.pucminas). Entre em contato conosco e venha  conhecer nosso Lab para interagir com os membros e mentores. Há muita coisa para fazer juntos. Venha com a gente. <img align="right" width="194" height="189" src="./images/wt-badge.png">
 
 ⚠️  O **processo de seleção de membros para o semestre 2024/1** está encerrado. Acompanhe a gente que todo semestre vamos recrutar novos participantes.
 
