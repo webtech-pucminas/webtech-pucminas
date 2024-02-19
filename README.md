@@ -2,15 +2,13 @@ Olá pessoal, esté é um grupo de alunos dos cursos de Tecnologia da Informaç�
 
 Várias contribuições têm origem também nos trabalhos de alunos e professores dos cursos de [pós-graduação da PUC Minas em Tecnologias Digitais](https://icei.pucminas.br/latosensu).
 
-
 ## Participe do WebTech   ⭐️ ⭐ ⭐ ⭐ ⭐
 
-Conheça nossos ambientes e as nossas ações, [clique aqui](https://linktr.ee/webtech.pucminas). Entre em contato conosco e venha  conhecer nosso Lab para interagir com os membros e mentores. Há muita coisa para fazer juntos. Venha com a gente. <img align="right" width="194" height="189" src="./images/wt-badge.png">
+Conheça nossos ambientes e as nossas ações, [clique aqui](https://linktr.ee/webtech.pucminas). Entre em contato conosco e venha  conhecer nosso Lab para interagir com os membros e mentores. Há muita coisa para fazer juntos. Venha com a gente. `<img align="right" width="194" height="189" src="./images/wt-badge.png">`
 
 ⚠️  O **processo de seleção de membros para o semestre 2024/1** está encerrado. Acompanhe a gente que todo semestre vamos recrutar novos participantes.
 
 Nossos canais: [LinkedIn](https://www.linkedin.com/company/webtech-puc-minas) | [YouTube](https://www.youtube.com/@webtech.pucminas) | [Instagram](https://www.instagram.com/webtech.pucminas)
-
 
 ## Laboratórios WebTech
 
@@ -27,7 +25,6 @@ Nossos canais: [LinkedIn](https://www.linkedin.com/company/webtech-puc-minas) | 
   Configuração de ambiente para a implementação de um API Gateway com base no [Kong Gateway](https://konghq.com/products/kong-gateway), tendo o PostgreSQL como base de dados e o Konga como dashboard de administração.
 - [Documentação de APIs REST com OpenAPI Specification](https://github.com/WebTech-PUC-Minas/lab-openapi)
   Apresentação de detalhes do OpenAPI Specification, o padrão de documentação de APIs RESTful.
-
 
 ## Colaboradores atuais
 
@@ -50,4 +47,5 @@ Alunos
 Professores
 
 - Lucas Porto - [portolucas](https://github.com/portolucas)
+- Ilo Rivero - [ilorivero](https://github.com/ilorivero)
 - Rommel Carneiro (**Idealizador do projeto**) - [rommelcarneiro](https://github.com/rommelcarneiro)
