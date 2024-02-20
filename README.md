@@ -34,7 +34,7 @@ Alunos
 - Gabriel Henrique Silva Pereira - [gab-hsp](https://github.com/Gab-HSP)
 - Guilherme Leroy - [ggleroy](https://github.com/ggleroy)
 - Henrique Silverio Nahim - [hsnahim2005](https://github.com/hsnahim2005)
-- Jhonata Silveira Dias - [jhonstudentx](https://github.com/jhonatasdias)
+- Jhonata Silveira Dias - [jhonatasdias](https://github.com/jhonatasdias)
 - Julia Gabriela de Resende - [ju-rsende](https://github.com/ju-rsende)
 - Julia Carvalho Carneiro - [jubju](https://github.com/jubju)
 - Jully Ketely - [jullysilva](https://github.com/jullysilva)
